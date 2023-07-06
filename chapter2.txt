@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is 2nd time i write to u.and u feel good
+=======
+it is 2nd time i write to u.Then u will be happy.They think this always.
+>>>>>>> hasan
